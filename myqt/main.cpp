@@ -6,7 +6,6 @@
 
 int main(int argc, char *argv[])
 {
-    int noused = 0;
     QApplication a(argc, argv);
 
     QTranslator translator;
